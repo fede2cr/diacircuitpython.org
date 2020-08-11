@@ -5,21 +5,16 @@ category: empresariales
 order: 20
 logo: /images/partners/empresariales/CRCibernetica.png
 website: 'http://www.crcibernetica.com'
-lang: fr
-why: What else ?
+lang: en
+why: Son importadores de hardware para CircuitPython en Costa Rica
 socials:
   - icon: facebook
-    link: 'https://facebook.com/ApsideGroupe'
-    name: ApsideGroupe
+    link: 'https://www.facebook.com/CRCibernetica/'
+    name: CRCibernetica
   - icon: twitter
-    link: 'https://twitter.com/ApsideGroupe'
-    name: ApsideGroupe
+    link: 'https://twitter.com/crcibernetica'
+    name: crcibernetica
 ---
-APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l'écosystème IT sur leurs projets innovants.
-Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ ... 
-Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d'architecture, produits complets, sujets porteurs et utiles...
-C'est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.
-Alors, prêt à tenter l'aventure ?
+Cuando inició CircuitPython, solamente existían algunas pocas tarjetas que lo podían correr, la mayoría de Adafruit, de quién es bastante complicado realizar compras con envío hacia Centroamérica. Por eso es tan importante CRCibernética para la comunidad de CircuitPython en Costa Rica, porque nos traen a un excelente precio equipo como las CircuitPlayground Express, Feathers, Itsybitsys, Gemmas, PyBadges, y hasta de otros fabricantes como las Meobit, de Sparkfun, de Arduino y otros.
 
-APSIDE, c'est un groupe de plus de 2600 collaborateurs à travers la France... tous répartis en équipes d'experts localisées.
-
+Siempre puedes encontrar a CRCibernética participando en ferias de la comunidad maker de Costa Rica, y en esta que es virtual no puede hacer falta.
