@@ -1,7 +1,7 @@
 baseURL = "https://diacircuitpython.org/"
 languageCode = "en"
 title = "Día CircuitPython 2020"
-
+DefaultContentLanguage = "es"
 # Theme
 theme = "devfest-theme-hugo"
 
@@ -40,16 +40,20 @@ enableMissingTranslationPlaceholders = true
 #    external = true
 
 [languages]
-[languages.en]
+[languages.es]
     weight = 1
+    languageName = "es"
+
+[languages.en]
+    weight = 2
     languageName = "gb"
 
 [languages.fr]
-    weight = 2
+    weight = 3
     languageName = "fr"
 
-[languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+[languages.es.params]
+    description = "El Día CircuitPython es para poder celebrar a este lenguaje y a su comunidad, pero en nuestro idioma"
 
 [taxonomies]
   tag = "tags"

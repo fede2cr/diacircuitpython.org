@@ -1,10 +1,10 @@
 ---
 key: uf2_y_cpy_en_arm
 title: Echando a andar UF2 y CircuitPython en un microcontrolador ARM
-language: English
+language: spanish
 format: conference
 tags:
-  - _languages
+  - _none
 level: advanced
 speakers:
   - josue_isem

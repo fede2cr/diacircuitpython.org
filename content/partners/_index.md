@@ -15,6 +15,6 @@ draft: false
 
 <!-- Parteners list -->
 
-{{% partners categories="communidades,empresariales" %}}
+{{% partners categories="comunidades,empresariales" %}}
 
 {{% /partners %}}

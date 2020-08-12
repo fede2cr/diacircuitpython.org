@@ -25,20 +25,20 @@ menu:
 
 Adafruit creó el CircuitPython Day, y ha definido para el año 2020 que el 9 del 9 (Setiembre) es el día más culebreado de este año. Quisiendo hacer nuestra versión en español, comenzamos invitando a panelistas de Costa Rica, luego de Centroamérica, y ahora de toda América y del Mundo entero. Queremos celebrar el Día de CircuitPython en el idioma español, e invitar a toda la comunidad.
 
-Tendremos eventos diseñados para desde principantes hasta avanzados así que tendrás actividades para mantenerte entretenido e informado.
+Tendremos eventos diseñados para desde principantes hasta avanzados así que tendrás actividades para mantenerte entretenido e informado. 
 
 {{% /home-info %}}
+
 
 <!-- ... -->
 
 {{% home-speakers %}}
 ## Panelistas
 
-{{< button-link label="See all speakers"
+{{< button-link label="Click para ver todos los panelistas"
                 url="./speakers"
                 icon="right" >}}
 
 {{% /home-speakers %}}
 
 <!-- ... --> 
-

@@ -1,10 +1,10 @@
 ---
 key: faroles_con_circuitplayground
 title: Creando Faroles de Independencia con CircuitPython
-language: English
+language: spanish
 format: conference
 tags:
-  - _languages
+  - _none
 level: basic
 speakers:
   - alvaro_figueroa
