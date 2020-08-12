@@ -10,6 +10,7 @@ theme = "devfest-theme-hugo"
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
+disableLanguages = ["fr", "en"]
 
 [params]
     title = "Día CircuitPython 2020"
@@ -54,6 +55,7 @@ enableMissingTranslationPlaceholders = true
 
 [languages.es.params]
     description = "El Día CircuitPython es para poder celebrar a este lenguaje y a su comunidad, pero en nuestro idioma"
+
 
 [taxonomies]
   tag = "tags"
