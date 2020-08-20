@@ -19,6 +19,10 @@ Incluso se vale si deseas hornear un queque o pastel, y cantarle cumpleaños a Q
 
 No importa tu nivel de experiencia en CircuitPython, es un lenguaje nuevo, por lo que todos somos novatos. Estamos buscando tener muchos más participantes para el evento. Favor envía tus datos a alvaro@greencore.co.cr para ser tomado en consideración.
 
+### Quiero exponer, pero soy novato en CircuitPython. ¿Que puedo hacer?
+
+Si tienes conocimientos en MicroPython, en electrónica en general, en plataformas como Arduino, Javascript para microcontroladoras, o Python para computadoras "grandes", no hay problema. Preferimos y amamos a CircuitPython, pero reconocemos que existen herramientas excelentes para ciertos trabajos, así como también preferencias y especialidades.
+
 ### ¿Porqué un evento aparte?
 
 Adafruit promueve la participación de la fecha, invitando para que cada comunidad que así lo desee, cree su propio evento. En nuestro caso vamos a aprovechar para realizarlo en español, y invitar a todas las comunidades hispanoparlantes, sin importar el país o nacionalidad.
