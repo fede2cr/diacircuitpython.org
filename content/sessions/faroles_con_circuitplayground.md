@@ -19,3 +19,13 @@ En este taller vamos a usar una CircuitPlayground Express, y a agregar un códig
 Una excelente actividad para hacer con los menores, si están aburridos e inquietos de estar en la casa.
 
 **Se puede llevar el taller, comprando o sin comprar el material**
+
+Materiales:
+
+- [Circuit Playground Express](https://www.crcibernetica.com/circuit-playground-express/) (importante: ¡Tiene que ser la express, no la classic!)
+
+Opcional:
+
+- [Cable USB](https://www.crcibernetica.com/usb-microb-cable-80-cm/)
+- [Caja para Baterías](https://www.crcibernetica.com/3-x-aa-battery-holder-with-cover-switch-jst-connector/), más las baterías AA
+
