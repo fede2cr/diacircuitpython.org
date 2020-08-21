@@ -17,7 +17,7 @@ Lo que deseamos es poder celebrar el día de CircuitPython. Cualquier actividad 
 
 Incluso se vale si deseas hornear un queque o pastel, y cantarle cumpleaños a Quetzalblinka.
 
-No importa tu nivel de experiencia en CircuitPython, es un lenguaje nuevo, por lo que todos somos novatos. Estamos buscando tener muchos más participantes para el evento. Favor envía tus datos a alvaro@greencore.co.cr para ser tomado en consideración.
+No importa tu nivel de experiencia en CircuitPython, es un lenguaje nuevo, por lo que todos somos novatos. Estamos buscando tener muchos más participantes para el evento. Favor envía tus datos a info@diacircuitpython.org para ser tomado en consideración.
 
 ### Quiero exponer, pero soy novato en CircuitPython. ¿Que puedo hacer?
 
