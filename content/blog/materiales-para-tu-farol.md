@@ -1,7 +1,7 @@
 ---
 title: Materiales para construir un farol
 brief: Haciendo el evento más nuestros
-image: /images/blog/Playground.jpg
+image: /images/blog/Playground.png
 date: 2020-08-20
 draft: false
 ---
