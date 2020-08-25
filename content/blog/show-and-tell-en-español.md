@@ -36,3 +36,5 @@ Un poco antes del Show, vamos a estar publicando un enlace que puedes utilizar p
 ## ¿A que hora es en mi país?
 
 Es a las 11am EST hora de Adafruit (en New York). En Costa Rica (que estamos en GMT-6), sería a las 9am CST. Vamos a actualizar este artículo para incluír una tabla para algunos países.
+
+Y sería el 9-9-2020 o el 9 de Setiembre, que es el día más culebreado del año. ¡Acompáñanos!
