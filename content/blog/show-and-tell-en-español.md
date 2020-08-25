@@ -12,6 +12,8 @@ Les tenemos a todos una gran sorpresa. Adafruit va a colaborar con el evento del
 
 {{< centered-img src="/images/blog/show-and-tell.jpg" alt="Show-and-tell" width="800" >}}
 
+Queremos dar un agradecimiento especial a Kattni Rembor quién se ha ofrecido a ser nuestro co-host para el evento y dando asistencia a los controles de la sesión.
+
 ## ¿Que es un "Show and Tell"
 
 Es el show de comunidad electrónica semanal más viejo de la Internet, donde por más de una década los hackers y makers se conectan al show para mostrar los proyectos con los que están trabajando. No tienen que estar terminados ni funcionando perfectamente, de eso no se trata. Se trata de mostrar lo que te gusta y lo que apasiona.
