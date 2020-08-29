@@ -1,10 +1,10 @@
 ---
 key: __party
-title: Party time...
+title: Cierre de evento
 format: party
 tags:
   - party
 speakers: []
 draft: false
 ---
-🎉 Party time
+Cierre de evento

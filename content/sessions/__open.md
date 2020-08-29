@@ -1,10 +1,10 @@
 ---
 key: __open
-title: 'Accueil, Thé, Café et Chocolatines'
+title: 'Desayune algo rico mientras iniciamos...'
 format: open
 tags:
   - open
 speakers: []
 draft: false
 ---
-Accueil, Thé, Café et Chocolatines
+Desayune algo rico mientras iniciamos...

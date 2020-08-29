@@ -1,10 +1,10 @@
 ---
 key: __lunch
-title: Déjeuner
+title: Almuerzo
 format: lunch
 tags:
   - lunch
 speakers: []
 draft: false
 ---
-Bon appétit
+Almuerzo... buen provecho

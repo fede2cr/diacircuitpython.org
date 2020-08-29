@@ -10,7 +10,7 @@ horizontal: false
 
 {{% hero %}}
 
-Por el momento no hemos definido los horarios de las charlas.
+Estamos completando el horario del evento...
 
 <!-- Eliminamos mientras sepamos como se van a repartir los horarios
 
