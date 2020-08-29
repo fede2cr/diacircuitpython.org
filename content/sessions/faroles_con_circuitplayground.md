@@ -29,3 +29,10 @@ Opcional:
 - [Cable USB](https://www.crcibernetica.com/usb-microb-cable-80-cm/)
 - [Caja para Baterías](https://www.crcibernetica.com/3-x-aa-battery-holder-with-cover-switch-jst-connector/), más las baterías AA
 
+# Rifa de CircuitPlayground Express
+
+Nuestra empresa aliada de CRCibernética ha donado para el evento, 2 tarjetas CircuitPlayground Express, las mismas que necesitas para este taller.
+
+Vamos a estar realizando una rifa de estas dos tarjetas con los participantes del evento de Faroles con CircuitPlayground. Visita la transmisión en vivo para participar.
+
+**Nota importante**: La empresa CRCibernética va a estar realizando el envío solamente dentro de Costa Rica, que es donde recide. Esto porque envío a otros países, puede costar más que el obsequio.
