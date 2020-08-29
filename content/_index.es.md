@@ -19,7 +19,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Día:1,Actividades:3,Regalos para rifar:2" class="primary" %}}
+{{% home-info what="Día:1,Países:4,Actividades:6,Regalos para rifar:2" class="primary" %}}
 
 ## ¿Que es el Día CircuitPython?
 
