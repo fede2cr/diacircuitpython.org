@@ -95,13 +95,13 @@
     start: 25
     end: 27
 - key: slot-4
-  start: '14:30'
+  start: '14:00'
   duration: 40
   row:
     start: 26
     end: 29
 - key: office-hours-4
-  start: '15:10'
+  start: '15:00'
   duration: 30
   row:
     start: 29
@@ -113,7 +113,7 @@
     start: 29
     end: 30
 - key: slot-5
-  start: '15:30'
+  start: '16:00'
   duration: 40
   row:
     start: 30
