@@ -16,6 +16,9 @@ Sin embargo, por peligro de quemadura se recomienda evitar candelas y otras fuen
 
 En este taller vamos a usar una CircuitPlayground Express, y a agregar un código sencillo para crear nuestro farol de independencia, con un patrón de luz que emula muy apropiadamente el movimiento natural de una flama.
 
+
+{{< centered-img src="https://cdn2.bigcommerce.com/server3700/64749/products/1215/images/3992/Screen_Shot_2017-10-02_at_11.14.28_AM__27314.1506964567.1280.1280.png?c=2" alt="CircuitPlayground Express" width="800" >}}
+
 Una excelente actividad para hacer con los menores, si están aburridos e inquietos de estar en la casa.
 
 **Se puede llevar el taller, comprando o sin comprar el material**

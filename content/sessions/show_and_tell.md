@@ -15,7 +15,7 @@ draft: false
 
 Les tenemos a todos una gran sorpresa. Adafruit va a colaborar con el evento del Día CircuitPython en español, ayudándonos a tener el mismo Show and Tell que conoces y has admirado desde hace años, y si siempre has querido participar pero no te animas a hacerlo en Inglés, ¡ahora es tu momento! Participa en idioma Español.
 
-{{< centered-img src="/images/blog/show-and-tell.jpg" alt="Show-and-tell" width="800" >}}
+{{< centered-img src="/images/blog/show-and-tell.jpg" alt="Show-and-tell" width="400" >}}
 
 Queremos dar un agradecimiento especial a Kattni Rembor quién se ha ofrecido a ser nuestro co-host para el evento y dando asistencia a los controles de la sesión.
 
