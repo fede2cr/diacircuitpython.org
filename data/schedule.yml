@@ -33,7 +33,7 @@
           talk: faroles_con_circuitplayground
         - slot: lunch
           talk: __lunch
-        - slot: slot-5
+        - slot: slot-6
           talk: uf2_y_cpy_en_arm
     - room: office-hours
       slots:
