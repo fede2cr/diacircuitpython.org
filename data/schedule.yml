@@ -37,6 +37,8 @@
           talk: __lunch
         - slot: slot-6
           talk: uf2_y_cpy_en_arm
+        - slot: slot-7
+          talk: consumiendo_apis
     - room: office-hours
       slots:
         - slot: office-hours-0
