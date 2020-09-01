@@ -12,6 +12,8 @@ horizontal: false
 
 Estamos completando el horario del evento...
 
+Este horario está en GMT-6.
+
 <!-- Eliminamos mientras sepamos como se van a repartir los horarios
 
 <a class="btn primary btn-lg" href="/schedule/schedule.ics">
