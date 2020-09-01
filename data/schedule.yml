@@ -31,6 +31,8 @@
           talk: keynote_open_overflow
         - slot: faroles_con_circuitplayground
           talk: faroles_con_circuitplayground
+        - slot: slot-2 
+          talk: internet_de_las_cosas
         - slot: lunch
           talk: __lunch
         - slot: slot-6
