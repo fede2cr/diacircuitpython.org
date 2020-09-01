@@ -25,7 +25,6 @@ disableLanguages = ["fr", "en"]
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
-    googleWebmasterKey = "BcIJYWDHoblML5DO66_b1BGBne9J_7Oq3GjC5SDCKK8"
 
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.png"
@@ -49,10 +48,6 @@ disableLanguages = ["fr", "en"]
     weight = 2
     languageName = "gb"
 
-[languages.fr]
-    weight = 3
-    languageName = "fr"
-
 [languages.es.params]
     description = "El Día CircuitPython es para poder celebrar a este lenguaje y a su comunidad, pero en nuestro idioma"
 
@@ -65,7 +60,7 @@ disableLanguages = ["fr", "en"]
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = false
-    disable = false
+    disable = true
     respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]
