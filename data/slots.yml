@@ -155,8 +155,8 @@
     start: 42
     end: 45
 - key: party
-  start: '19:30'
+  start: '18:00'
   duration: 240
   row:
-    start: 46
-    end: 48
+    start: 38
+    end: 42
