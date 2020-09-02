@@ -19,13 +19,18 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Día:1,Países:4,Actividades:7,Regalos para rifar:2" class="primary" %}}
+{{% home-info what="Día:1,Países:4,Actividades:8,Regalos para rifar:2" class="primary" %}}
 
 ## ¿Que es el Día CircuitPython?
 
-Adafruit creó el CircuitPython Day, y ha definido para el año 2020 que el 9 del 9 (Setiembre) es el día más culebreado de este año. Quisiendo hacer nuestra versión en español, comenzamos invitando a panelistas de Costa Rica, luego de Centroamérica, y ahora de toda América y del Mundo entero. Queremos celebrar el Día de CircuitPython en el idioma español, e invitar a toda la comunidad.
+Adafruit creó el CircuitPython Day, y ha definido para el año 2020 que el 9 del 9 (Setiembre) es el día más culebreado de este año.
+
+La empresa [Greencore Solutions](https://www.greencore.co.cr) comenzó organizando el evento a nivel nacional como parte de su trayectoria de colaboración a código y a comunidades de software libre.
+
+Quisiendo hacer nuestra versión en español, comenzamos invitando a panelistas de Costa Rica, luego de Centroamérica, y ahora de toda América y del Mundo entero. Queremos celebrar el Día de CircuitPython en el idioma español, e invitar a toda la comunidad. 
 
 Tendremos eventos diseñados para desde principantes hasta avanzados así que tendrás actividades para mantenerte entretenido e informado. 
+
 
 {{% /home-info %}}
 
