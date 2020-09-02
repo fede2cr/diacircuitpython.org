@@ -37,6 +37,8 @@
           talk: __lunch
         - slot: slot-3
           talk: crea_tu_hardware
+        - slot: slot-4
+          talk: introduccion_a_circuitpython
         - slot: slot-5
           talk: circuitpython_sobre_linux
         - slot: slot-6
