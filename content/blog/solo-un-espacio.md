@@ -13,3 +13,8 @@ Estamos a poco del Día CircuitPython 2020. Recuerda que nos interesa mucho lo q
 Todavía estás ha tiempo para proponer tu charla o taller, ¡pero debes hacerlo pronto!
 
 Estaremos cerrando inscripciones el Lunes 7. Contáctanos ahora para compartir el escenario con otros pythonistas, hackers y makers.
+
+
+# Actualización - Apenas minutos después del post...
+
+... Yeffri Salazar nos ha confirmado una charla de Introducción a CircuitPython. ¡Gracias Yeffri!
