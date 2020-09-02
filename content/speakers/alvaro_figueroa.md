@@ -1,6 +1,6 @@
 ---
 key: alvaro_figueroa
-name: Alvaro Figueroa
+name: Álvaro Figueroa
 id: fede2
 feature: true
 company: Greencore Solutions
