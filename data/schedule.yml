@@ -35,6 +35,8 @@
           talk: internet_de_las_cosas
         - slot: lunch
           talk: __lunch
+        - slot: slot-3
+          talk: crea_tu_hardware
         - slot: slot-6
           talk: uf2_y_cpy_en_arm
         - slot: slot-7
