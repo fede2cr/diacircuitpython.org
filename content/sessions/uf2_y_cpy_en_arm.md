@@ -10,6 +10,9 @@ speakers:
   - josue_isem
 draft: false
 ---
+4 p.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+
+
 Si estás creando una tarjeta con procesadores de la familia SAMD de ARM, claro que existe una variedad de lenguajes de programación a utilizar.
 
 Nada va a hacer más sencilla la vida de tus usuarios, que si le agregas soporte para CircuitPython, y el gestor de arranque UF2.

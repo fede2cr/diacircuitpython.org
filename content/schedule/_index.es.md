@@ -10,16 +10,13 @@ horizontal: false
 
 {{% hero %}}
 
-Estamos completando el horario del evento...
+Tenemos un día lleno de actividades, de diferentes niveles y temáticas. Para participar en los eventos solamente debe entrar a los respectivos canales de Youtube. Realiza click sobre la actividad, para más información.
 
-Este horario está en GMT-6.
+{{% /hero %}}
 
-<!-- Eliminamos mientras sepamos como se van a repartir los horarios
 
 <a class="btn primary btn-lg" href="/schedule/schedule.ics">
     <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
 </a>
--->
 
 <!-- TODO: filter and search -->
-{{% /hero %}}

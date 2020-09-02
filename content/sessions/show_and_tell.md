@@ -11,6 +11,9 @@ speakers:
   - alvaro_figueroa
 draft: false
 ---
+9 a.m GMT-6 en el canal de [Youtube de Adafruit](https://www.youtube.com/adafruit/)
+
+
 # ¡Show and Tell en Español!
 
 Les tenemos a todos una gran sorpresa. Adafruit va a colaborar con el evento del Día CircuitPython en español, ayudándonos a tener el mismo Show and Tell que conoces y has admirado desde hace años, y si siempre has querido participar pero no te animas a hacerlo en Inglés, ¡ahora es tu momento! Participa en idioma Español.
