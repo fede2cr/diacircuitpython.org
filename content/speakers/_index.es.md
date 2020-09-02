@@ -9,11 +9,9 @@ draft: false
 
 {{% hero %}}
 
-Conoce a nuestros panelistas.
+Inscripción de panelistas **cerrada**
 
-# Inscripción de panelistas **abierta**
-
-Nos interesa conocer tu diversidad, y tu voz.
+# Conoce a nuestros panelistas.
 
 {{% /hero %}}
 
