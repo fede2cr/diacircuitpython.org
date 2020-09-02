@@ -43,23 +43,3 @@
           talk: uf2_y_cpy_en_arm
         - slot: slot-7
           talk: consumiendo_apis
-    - room: office-hours
-      slots:
-        - slot: office-hours-0
-          talk: office-hour-00
-        - slot: office-hours-1
-          talk: office-hour-01
-        - slot: office-hours-2
-          talk: office-hour-02
-        - slot: office-hours-3
-          talk: office-hour-03
-        - slot: office-hours-lt-1
-          talk: office-hour-11
-        - slot: office-hours-lt-2
-          talk: office-hour-12
-        - slot: office-hours-4
-          talk: office-hour-04
-        - slot: office-hours-5
-          talk: office-hour-05
-        - slot: office-hours-6
-          talk: office-hour-06
