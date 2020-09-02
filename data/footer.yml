@@ -1,1 +1,6 @@
 content:
+  - title: footer_about
+    links:
+      - name: Greencore Solutions
+        url: https://www.greencore.co.cr
+        newtab: true
