@@ -16,6 +16,6 @@ Tendremos un Show and Tell en Español en conjunto con Adafruit Industries, para
 
 Luego seguimos con talleres y charlas por parte de panelistas de México, Guatemala, USA y Costa Rica, con diversos temas para todos los niveles.
 
-{{< centered-img src="/images/blog/panfleto-evento.png" alt="Panfleto Día CircuitPython 2020" width="600" >}}
+{{< centered-img src="/images/blog/panfleto-evento-800.png" alt="Panfleto Día CircuitPython 2020" width="600" >}}
 
 * [Descarga el panfleto del evento](/images/blog/panfleto-evento.png)
