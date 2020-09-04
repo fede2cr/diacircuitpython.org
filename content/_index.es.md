@@ -19,7 +19,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Día:1,Países:4,Actividades:8,Regalos para rifar:2" class="primary" %}}
+{{% home-info what="Día:1,Países:4,Actividades:8,Regalos para rifar:2,Comunidades y empresas:8,Show and Tell en español con Adafruit:1" class="primary" %}}
 
 ## ¿Que es el Día CircuitPython?
 
