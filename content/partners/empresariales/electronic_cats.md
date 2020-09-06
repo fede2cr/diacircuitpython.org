@@ -1,6 +1,6 @@
 ---
 key: electronic_cats
-title: Electronic Catsions
+title: Electronic Cats
 category: empresariales
 order: 20
 logo: /images/partners/empresariales/electronic_cats.jpg
