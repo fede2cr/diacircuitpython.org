@@ -5,7 +5,7 @@ language: spanish
 format: conference
 tags:
   - _none
-level: basic
+level: beginner
 speakers:
   - gustavo_reynaga
 draft: false

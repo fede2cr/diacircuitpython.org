@@ -5,7 +5,7 @@ language: spanish
 format: conference
 tags:
   - _none
-level: basic
+level: beginner
 speakers:
   - kattni_rembor
   - alvaro_figueroa
