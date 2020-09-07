@@ -4,7 +4,7 @@ title: Show and Tell en Español
 language: spanish
 format: conference
 tags:
-  - _none
+  - keynote
 level: beginner
 speakers:
   - kattni_rembor
