@@ -4,7 +4,7 @@ title: CircuitPython sobre Linux con RaspberryPi
 language: spanish
 format: conference
 tags:
-  - _none
+  - _raspberry_pi
 level: beginner
 speakers:
   - gustavo_reynaga

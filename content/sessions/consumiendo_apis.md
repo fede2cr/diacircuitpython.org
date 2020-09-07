@@ -4,7 +4,9 @@ title: Consumiendo APIs con MicroPython
 language: spanish
 format: conference
 tags:
-  - _none
+  - _iot
+  - _wifi
+  - _web
 level: advanced
 speakers:
   - jorge_de_paz

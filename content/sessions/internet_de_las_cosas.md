@@ -4,8 +4,11 @@ title: El Internet de las Cosas y Micro/CircuitPython
 language: spanish
 format: conference
 tags:
-  - _none
-level: advanced
+  - _iot
+  - _wifi
+  - _web
+  - _taller
+level: intermediate
 speakers:
   - bentley_born
 draft: false

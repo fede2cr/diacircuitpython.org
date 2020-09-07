@@ -4,7 +4,7 @@ title: Creando Faroles de Independencia con CircuitPython
 language: spanish
 format: conference
 tags:
-  - _none
+  - _taller
 level: beginner
 speakers:
   - alvaro_figueroa
