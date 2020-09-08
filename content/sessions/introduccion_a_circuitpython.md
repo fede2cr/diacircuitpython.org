@@ -10,6 +10,10 @@ speakers:
   - yeffri_salazar
 draft: false
 ---
+
+2 p.m. GMT-6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
+
+
 Y... ¿Que es esto de CircuitPython? ¿Estamos celebrando el día de qué?
 
 Tenemos la suerte de aprender de Yeffri, que es este asunto de CircuitPython.

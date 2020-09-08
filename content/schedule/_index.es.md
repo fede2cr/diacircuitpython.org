@@ -10,7 +10,7 @@ horizontal: false
 
 {{% hero %}}
 
-Tenemos un día lleno de actividades, de diferentes niveles y temáticas. Para participar en los eventos solamente debe entrar a los respectivos canales de Youtube. Realiza click sobre la actividad, para más información.
+Tenemos un día lleno de actividades, de diferentes niveles y temáticas. Para participar en los eventos solamente debe realiza click sobre la actividad, para más información. ¡Completamente gratis!
 
 {{% /hero %}}
 

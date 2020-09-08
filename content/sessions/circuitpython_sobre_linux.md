@@ -10,7 +10,7 @@ speakers:
   - gustavo_reynaga
 draft: false
 ---
-3 p.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+3 p.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
 
 
 Ya hemos escuchado de usar CircuitPython en microcontroladoras como una SAMD21 que traer una CircuitPlayground o una ESP32-S2 que trae una BastWifi de Electronic Cats.

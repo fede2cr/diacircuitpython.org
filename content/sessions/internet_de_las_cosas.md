@@ -13,7 +13,7 @@ speakers:
   - bentley_born
 draft: false
 ---
-11 a.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+11 a.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
 
 Las tareas comunes para aplicaciones del Internet de las Cosas son más fáciles en Python. Conectarse al internet, comunicarse con un API, parsear/crear JSON es tedioso en C/C++. Este taller/demo va a utilizar MicroPython con un ESP8266 para conectarse a una red WIFI, comunicarse con un sitio web, obtener datos y parsear JSON.
 

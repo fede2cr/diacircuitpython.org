@@ -11,6 +11,6 @@ speakers:
 draft: false
 ---
 
-1 p.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+1 p.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
 
 En está charla hablaremos de cómo hacer compatible tus tarjetas electrónicas con CircuitPython, los microcontroladores compatibles y como iniciar con CircuitPython, además de algunos ejemplos de su funcionamiento.

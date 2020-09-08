@@ -12,7 +12,7 @@ speakers:
   - jorge_de_paz
 draft: false
 ---
-5 p.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+5 p.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
 
 
 Si alguien, alguna vez tuvo ganas de usar una microcontroladora con el lenguaje de Arduino para hablar con sistemas en Internet... esas ganas probablemente se le quitaron rapidito, ya que es un languaje con el que hay que acomodarse para poder procesar HTTP, leer un JSON, etc.

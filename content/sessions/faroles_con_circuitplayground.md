@@ -10,7 +10,7 @@ speakers:
   - alvaro_figueroa
 draft: false
 ---
-10 a.m. GMT -6 en el canal de [Youtube de Greencore Solutions](https://www.youtube.com/channel/UCeZ-Wk1LyK2lnm5x4BCbyGA)
+10 a.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
 
 En Centroamérica solimos celebrar la independencia con faroles.
 
