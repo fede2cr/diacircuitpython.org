@@ -11,6 +11,7 @@ tags:
 level: intermediate
 speakers:
   - bentley_born
+videoId: YTFhTDb2ehI
 presentation: https://github.com/bborncr/CircuitPythonDay2020
 draft: false
 ---
