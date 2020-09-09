@@ -9,6 +9,7 @@ level: beginner
 speakers:
   - kattni_rembor
   - alvaro_figueroa
+videoId: V3q3RI5JL6E
 draft: false
 ---
 9 a.m GMT-6 en el canal de [Youtube de Adafruit](https://www.youtube.com/adafruit/)
