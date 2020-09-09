@@ -11,6 +11,7 @@ tags:
 level: intermediate
 speakers:
   - bentley_born
+presentation: https://github.com/bborncr/CircuitPythonDay2020
 draft: false
 ---
 11 a.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
@@ -25,4 +26,3 @@ El dispositivo que se va a utilizar para el taller es el D1 Mini ESP8266. En Cos
 
 Materiales en Github:
 
-https://github.com/bborncr/CircuitPythonDay2020
