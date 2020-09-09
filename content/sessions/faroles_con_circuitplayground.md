@@ -8,6 +8,7 @@ tags:
 level: beginner
 speakers:
   - alvaro_figueroa
+presentation: https://github.com/fede2cr/charlas/raw/master/2020/2020-09-09-D%C3%ADa-CircuitPython/Charla%20-%20Faroles%20de%20Independencia%20con%20CircuitPython.pdf
 draft: false
 ---
 10 a.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
