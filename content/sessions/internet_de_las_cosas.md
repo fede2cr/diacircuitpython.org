@@ -23,6 +23,3 @@ El dispositivo que se va a utilizar para el taller es el D1 Mini ESP8266. En Cos
 [CRCibernética D1 mini esp8266 dev board](https://www.crcibernetica.com/d1-mini-esp8266-development-board/)
 
 {{< centered-img src="https://cdn2.bigcommerce.com/server3700/64749/products/1276/images/4159/IMG_20171228_092026__36640.1514484415.1280.1280.jpg?c=2" alt="D1 mini esp8266 dev board" width="800" >}}
-
-Materiales en Github:
-
