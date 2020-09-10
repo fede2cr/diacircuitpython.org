@@ -1,6 +1,6 @@
 ---
 key: crea_tu_hardware
-title: Crea tu hardware con Circuitpython
+title: Crea tu hardware para Circuitpython
 language: spanish
 format: conference
 tags:
@@ -8,6 +8,7 @@ tags:
 level: advanced
 speakers:
   - andres_sabas
+videoId: hK-ZnvexMh4
 draft: false
 ---
 
