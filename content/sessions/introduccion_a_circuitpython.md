@@ -8,6 +8,7 @@ tags:
 level: beginner
 speakers:
   - yeffri_salazar
+videoId: fwvMQkQAsPg
 draft: false
 ---
 
