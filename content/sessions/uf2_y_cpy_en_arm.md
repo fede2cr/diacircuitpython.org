@@ -8,6 +8,7 @@ tags:
 level: advanced
 speakers:
   - josue_isem
+videoId: M3d681LJylc
 draft: false
 ---
 4 p.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
