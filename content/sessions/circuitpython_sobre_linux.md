@@ -8,6 +8,7 @@ tags:
 level: beginner
 speakers:
   - gustavo_reynaga
+videoId: vjAScp2Rvj8
 draft: false
 ---
 3 p.m. GMT -6 en el [Facebook de Greencore Solutions](https://www.facebook.com/GreencoreSolutions/live)
